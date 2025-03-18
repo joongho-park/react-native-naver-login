@@ -1,6 +1,6 @@
 {
-  "name": "@react-native-seoul/naver-login",
-  "version": "4.0.4",
+  "name": "@joongho.park/react-native-seoul-naver-login",
+  "version": "1.0.1",
   "description": "React Native Module for Naver Login",
   "postinstall": "dooboolab-welcome postinstall",
   "main": "dist/index",
@@ -21,9 +21,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crossplatformkorea/react-native-naver-login"
+    "url": "https://github.com/joongho-park/react-native-naver-login"
   },
-  "homepage": "https://github.com/crossplatformkorea/react-native-naver-login",
+  "homepage": "https://github.com/joongho-park/react-native-naver-login",
   "keywords": [
     "react-native",
     "naver",
